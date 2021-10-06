@@ -1,6 +1,6 @@
-# Word Count
+# Am I going to be finish writing my thesis?
  
- Getting some practice in between thesis writing. 
+ Getting some practice in between thesis writing.
  
  This piece of code returns the total word count from your doc file alongside the 20 most/least used words.
  
