@@ -44,7 +44,9 @@ for line in lines:
 
 # get the total word count
 total = sum(word_counts.values())
+remaining = 30000 - total
 print("Total word count :", total)
+print(remaining, "words to go! you can graduate!")
 print()
 
 # get a count list for sorting
