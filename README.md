@@ -1,4 +1,4 @@
-# Am I going to be finish writing my thesis?
+# Am I going to finish writing my thesis?
  
  Getting some practice in between thesis writing.
  
