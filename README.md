@@ -2,7 +2,7 @@
  
  Getting some practice in between thesis writing.
  
- This piece of code returns the total word count from your doc file alongside the % of the 20 most/least used words.
+ This piece of code returns the total word count from your doc file alongside of the 20 most/least used words and their %.
  
 # Word Count 
 ![image](https://user-images.githubusercontent.com/61132301/136250229-dd4720c1-8e61-42c8-90d3-1b1174c9a986.png)
